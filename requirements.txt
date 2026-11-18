@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+statsmodels
+plotly
+streamlit
+gradio
+xlsxwriter
